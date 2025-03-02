@@ -12,3 +12,17 @@ __pycache__/
 env.py
 node_modules/
 README.md
+
+cat .gitignore 
+core.Microsoft*
+core.mongo*
+core.python*
+env.py
+__pycache__/
+*.py[cod]
+node_modules/
+.github/
+cloudinary_python.txt
+
+#Environment
+.venv/
