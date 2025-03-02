@@ -11,3 +11,4 @@ __pycache__/
 *.zip
 env.py
 node_modules/
+README.md
