@@ -1,6 +1,6 @@
-inputs/malaria_dataset/cell_images/test
-inputs/malaria_dataset/cell_images/train
-inputs/malaria_dataset/cell_images/validation
+/inputs/malaria_dataset/cell_images/test
+/inputs/malaria_dataset/cell_images/train
+/inputs/malaria_dataset/cell_images/validation
 # Exclude development environment configuration files
 .gitpod.dockerfile
 .gitpod.yml
