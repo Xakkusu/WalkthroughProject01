@@ -1,10 +1,13 @@
 /inputs/malaria_dataset/cell_images/test
 /inputs/malaria_dataset/cell_images/train
 /inputs/malaria_dataset/cell_images/validation
+/inputs/malaria_dataset/cell_images/validation
 inputs/malaria_dataset/cell_images/validation
 kaggle.json
 *.ipynb
 __pycache__/
 /workspaces/WalkthroughProject01/inputs
 /inputs
-
+*.zip
+env.py
+node_modules/
