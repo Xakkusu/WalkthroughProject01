@@ -43,3 +43,6 @@ images/
 
 # Exclude fixture files
 fixtures/
+
+README.md
+/README.md
